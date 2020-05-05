@@ -5,7 +5,7 @@ module.exports = {
     entry: './src/index.js',
     output: {
         path: path.resolve('output'),
-        filename: 'ReuseableComponents',
+        filename: 'ReuseableComponents.js',
         libraryTarget: 'commonjs2'
     },
     module: {

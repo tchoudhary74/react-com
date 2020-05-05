@@ -1,8 +1,8 @@
 {
   "name": "react-comp-pub",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React-Boilerplate",
-  "main": "./src/index.js",
+  "main": "./output/ReuseableComponents.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
