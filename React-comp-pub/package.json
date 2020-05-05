@@ -1,6 +1,6 @@
 {
   "name": "react-comp-pub",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React-Boilerplate",
   "main": "./output/ReuseableComponents.js",
   "scripts": {
